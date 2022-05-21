@@ -10,3 +10,9 @@ A new Flutter project about holy quran.
  * flutter_screenutil: ^5.5.2
  * just_audio: ^0.9.21
  * easy_splash_screen: ^1.0.3  
+
+## Link
+https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing
+
+<img hrf="https://im2.ezgif.com/tmp/ezgif-2-b8dcfce5c9.gif">
+![https://im2.ezgif.com/tmp/ezgif-2-b8dcfce5c9.gif](name-of-giphy.gif)
