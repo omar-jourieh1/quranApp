@@ -14,5 +14,5 @@ A new Flutter project about holy quran.
 ## Link
 https://drive.google.com/file/d/1b3oQfLOLaa9NBiB46VZNszHV3dhGf81G/view?usp=sharing
 
-<img hrf="https://im2.ezgif.com/tmp/ezgif-2-b8dcfce5c9.gif">
-![https://im2.ezgif.com/tmp/ezgif-2-b8dcfce5c9.gif](name-of-giphy.gif)
+<img src="https://im2.ezgif.com/tmp/ezgif-2-b8dcfce5c9.gif">
+
